@@ -25,3 +25,9 @@ Hey!
 14. Symbolic Derivative 
 15. Simple Derivative
 16. The Beta-Binomial model
+
+### Day 5
+17. Ensemble Learning
+18. Bagging
+19. Boosting
+20. Stacking
