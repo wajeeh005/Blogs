@@ -31,3 +31,17 @@ Hey!
 18. Bagging
 19. Boosting
 20. Stacking
+
+### Day 6
+21. Convolutional Neural Network (ppt)
+22. Convolutional Layer
+23. Pooling Layer
+24. Fully-Connected Layer
+25. Fine Tunning CNNs
+26. Neural Style Transfer + code
+
+### Day 7
+27. Cross Validation (C.V)
+28. Holdout Method
+29. K-fold Cross-validation
+30. Leave-p-out cross-validation
