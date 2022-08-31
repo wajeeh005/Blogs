@@ -45,3 +45,17 @@ Hey!
 28. Holdout Method
 29. K-fold Cross-validation
 30. Leave-p-out cross-validation
+
+### Day 9
+31. Similarity Measure (ppt)
+32. Jacard Similarity
+33. The Kullback-Leibler Distance (KL-divergence)
+34. Hashing
+
+### Day 10
+35. The Theory of Perceptron (ppt)
+36. The Single Layer Perceptron
+37. The Multi Layer Perceptron
+38. Activation Function
+39. Back-Propagation in Perceptron
+
